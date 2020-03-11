@@ -1,0 +1,14 @@
+{
+  "name": "node-misc",
+  "version": "0.0.0",
+  "description": "Just playing around.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J Fenstermacher",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
